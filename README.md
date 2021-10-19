@@ -1,2 +1,2 @@
 # profile
-A webpage design for my pfofile.
+A webpage design for my profile.
